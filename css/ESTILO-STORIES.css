@@ -1,0 +1,13 @@
+.promo-section{
+    background-color: rgb(0, 0, 0);
+    padding: 80px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.content-wrapper{
+    max-width: 900px;
+}
+h1{
+    color: rgb(255, 255, 255);
+}
